@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24">, I'm Mahesh!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MaheshMoholkar_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMaheshr&screen_name=Mahesh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MaheshMoholkar_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMaheshr&screen_name=MaheshMoholkar_)
 
 
 - ⚡ I’m currently learning DevOps and Web Dev.
