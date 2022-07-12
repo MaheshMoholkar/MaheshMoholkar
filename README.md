@@ -8,6 +8,7 @@
 ### Connect with me:
 
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/MaheshMoholkar_#gh-dark-mode-only)
+
 [![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mahesh1822/#gh-dark-mode-only)
 
 # Blog posts
