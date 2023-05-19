@@ -18,11 +18,11 @@
 ## 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of WebAssembly](https://maheshmoholkar.hashnode.dev/the-evolution-of-webassembly)
 - [Linux Is Not Just An Operating System](https://maheshmoholkar.hashnode.dev/linux-is-not-just-an-operating-system)
 - [Observability Driven Development with Sprkl](https://maheshmoholkar.hashnode.dev/observability-driven-development-with-sprkl)
 - [Is it possible to earn 7 lakhs per month?](https://maheshmoholkar.hashnode.dev/is-it-possible-to-earn-7-lakhs-per-month)
 - [A beginner&#39;s Guide to KubeSphere](https://maheshmoholkar.hashnode.dev/a-beginners-guide-to-kubesphere)
-- [A beginner&#39;s Guide to Portainer](https://maheshmoholkar.hashnode.dev/a-beginners-guide-to-portainer)
 <!-- BLOG-POST-LIST:END -->
 
 [![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshMoholkar&count_private=true&theme=tokyonight)]()
