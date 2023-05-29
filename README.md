@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on Web Applications.
 
-- 📝 I regularly write articles on [https://maheshmoholkar.hashnode.dev/](https://maheshmoholkar.hashnode.dev/)
+- 📝 I regularly write articles on [https://maheshmoholkar.hashnode.dev/](https://maheshmoholkar.hashnode.dev)
 
 - 📫 How to reach me **maheshmoholkar171@gmail.com**
 
