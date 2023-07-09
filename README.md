@@ -5,11 +5,9 @@
 
 ## Web Developer and Open Source Contributor!!
 
-- 🔭 I’m currently studying MCA (2022-2024)
+- 🌱 I’m currently working on Web Applications and Android Applications.
 
-- 🌱 I’m currently working on Web Applications.
-
-- 📝 I regularly write articles on [https://maheshmoholkar.hashnode.dev/](https://maheshmoholkar.hashnode.dev)
+- 📝 I write articles on [https://maheshmoholkar.hashnode.dev/](https://maheshmoholkar.hashnode.dev)
 
 - 📫 How to reach me **maheshmoholkar171@gmail.com**
 
@@ -21,6 +19,8 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
 ## Frameworks & Libraries
@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </p>
 
 ## Databases
@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </p>
 
 ## 📕 Latest Blog Posts:
@@ -58,4 +59,6 @@
 - [Is it possible to earn 7 lakhs per month?](https://maheshmoholkar.hashnode.dev/is-it-possible-to-earn-7-lakhs-per-month)
 <!-- BLOG-POST-LIST:END -->
 
-[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshMoholkar&count_private=true&theme=tokyonight)]()
+
+[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshMoholkar&count_private=true&theme=tokyonight&show_icons=true)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshMoholkar&hide=css&hide_progress=true&theme=tokyonight)
