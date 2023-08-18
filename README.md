@@ -56,4 +56,4 @@
 
 
 [![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshMoholkar&count_private=true&theme=tokyonight&show_icons=true)]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshMoholkar&hide=css&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshMoholkar&hide=css&hide=html&hide_progress=true&theme=tokyonight)
