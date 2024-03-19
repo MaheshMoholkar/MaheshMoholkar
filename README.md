@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://maheshmoholkar.hashnode.dev/](https://maheshmoholkar.hashnode.dev)
 
-- 📫 How to reach me **maheshmoholkar171@gmail.com**
+- 📫 How to reach me **mahesh.moholkar.2023@gmail.com**
 
 ## Languages:
 <p>
