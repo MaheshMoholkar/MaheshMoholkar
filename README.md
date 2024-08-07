@@ -1,7 +1,6 @@
 # Hi, I'm Mahesh!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaheshMoholkar&label=Profile%20views&color=0e75b6&style=flat" alt="MaheshMoholkar" /> </p>
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/MaheshMoholkar_?logo=twitter&style=for-the-badge" alt="MaheshMoholkar_" /></a> </p>
 
 ## Developer & Open Source Contributor!!
 
