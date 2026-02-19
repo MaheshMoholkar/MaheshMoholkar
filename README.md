@@ -1,14 +1,10 @@
-# Hi, I'm Mahesh!
+# Mahesh Moholkar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaheshMoholkar&label=Profile%20views&color=0e75b6&style=flat" alt="MaheshMoholkar" /> </p>
+Developer focused on building web apps and AI-powered tools.
 
-## Developer & Open Source Contributor!!
+📝 [maheshmoholkar.hashnode.dev](https://maheshmoholkar.hashnode.dev) &nbsp;·&nbsp; 📫 mahesh.moholkar.dev@gmail.com
 
-- 🌱 I develop Web Apps and Android Apps.
-
-- 📝 I write articles on [https://maheshmoholkar.hashnode.dev/](https://maheshmoholkar.hashnode.dev)
-
-- 📫 How to reach me **mahesh.moholkar.2023@gmail.com**
+---
 
 ## Languages
 <p>
@@ -19,31 +15,30 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
-  
 </p>
 
 ## Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
+## AI & ML
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
 ## Databases & ORMs
 <p>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-
- 
 </p>
 
 ## Tools
@@ -58,13 +53,14 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
 </p>
 
-## 📕 Latest Blog Posts:
+---
+
+## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [The Evolution of WebAssembly](https://maheshmoholkar.hashnode.dev/the-evolution-of-webassembly)
 - [Observability Driven Development with Sprkl](https://maheshmoholkar.hashnode.dev/observability-driven-development-with-sprkl)
 - [Is it possible to earn 7 lakhs per month?](https://maheshmoholkar.hashnode.dev/is-it-possible-to-earn-7-lakhs-per-month)
-- [A beginner&#39;s Guide to KubeSphere](https://maheshmoholkar.hashnode.dev/a-beginners-guide-to-kubesphere)
-- [A beginner&#39;s Guide to Portainer](https://maheshmoholkar.hashnode.dev/a-beginners-guide-to-portainer)
+- [A beginner's Guide to KubeSphere](https://maheshmoholkar.hashnode.dev/a-beginners-guide-to-kubesphere)
+- [A beginner's Guide to Portainer](https://maheshmoholkar.hashnode.dev/a-beginners-guide-to-portainer)
 <!-- BLOG-POST-LIST:END -->
-
