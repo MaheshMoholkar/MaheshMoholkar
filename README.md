@@ -1,14 +1,14 @@
 ### Mahesh Moholkar
 
-Software engineer in Pune, working on enterprise SaaS and applied AI.
+Software engineer in Pune. I build multi-tenant SaaS, distributed backends and production LLM systems.
 
-I design and ship multi-tenant SaaS platforms, distributed backends and production LLM systems.
+**[Vyavasay](https://vyavasayapp.in/)** — a multi-tenant GST ERP for Indian small businesses, designed, built and run in production. React web app, Next.js storefront, Expo Android app, .NET API.
 
-**Selected work**
-
-- [Vyavasay](https://vyavasayapp.in/) — multi-tenant GST ERP for Indian SMEs, live in production. Double-entry posting, GST returns, and web, storefront and Android clients typed from one OpenAPI contract.
-- [PagerSage](https://github.com/MaheshMoholkar/pagersage) — multi-agent incident response. Claude agents walk a graph of services, deploys and past incidents to find the likely root cause and page the owner.
-- [Echo](https://github.com/MaheshMoholkar/echo) — embeddable AI support over chat and voice, grounded in a business's own documents, with handoff to a human.
+- Posting is one transaction: stock, the double-entry ledger and balances move together, and cancelling reverses them.
+- GST is split by place of supply and frozen at posting; GSTR-1 and 3B are built from posted documents, and filed periods are locked.
+- Tenant isolation lives in the data layer, so a missed `WHERE` can't leak another business's data.
+- One OpenAPI contract types all three clients, so an API change breaks the build, not production.
+- Claude turns a photo of a supplier's bill into a draft purchase bill; the app finds products by photo with image embeddings in pgvector.
 
 **Stack** · Next.js, React, TypeScript, Python, FastAPI, PostgreSQL + pgvector, .NET, Docker
 
