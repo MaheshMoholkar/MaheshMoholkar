@@ -11,7 +11,7 @@ Currently building [Vyavasay](https://vyavasayapp.in/), an AI ERP for Indian sma
 </picture>
 </p>
 
-<a href="https://maheshmoholkar.in"><picture><source media="(prefers-color-scheme: dark)" srcset="img/globe-dark.svg"><img src="img/globe-light.svg" alt="Website" width="20" height="20"></picture></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/mahesh1822"><picture><source media="(prefers-color-scheme: dark)" srcset="img/linkedin-dark.svg"><img src="img/linkedin-light.svg" alt="LinkedIn" width="20" height="20"></picture></a>&nbsp;&nbsp;&nbsp;
-<a href="https://maheshmoholkar.hashnode.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="img/pen-dark.svg"><img src="img/pen-light.svg" alt="Blog" width="20" height="20"></picture></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:mahesh.moholkar.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/mail-dark.svg"><img src="img/mail-light.svg" alt="Email" width="20" height="20"></picture></a>
+<a href="https://maheshmoholkar.in"><picture><source media="(prefers-color-scheme: dark)" srcset="img/globe-dark.svg"><img src="img/globe-light.svg" alt="" width="18" height="18" align="absmiddle"></picture>&nbsp;Portfolio</a>&emsp;
+<a href="https://linkedin.com/in/mahesh1822"><picture><source media="(prefers-color-scheme: dark)" srcset="img/linkedin-dark.svg"><img src="img/linkedin-light.svg" alt="" width="18" height="18" align="absmiddle"></picture>&nbsp;LinkedIn</a>&emsp;
+<a href="https://maheshmoholkar.hashnode.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="img/pen-dark.svg"><img src="img/pen-light.svg" alt="" width="18" height="18" align="absmiddle"></picture>&nbsp;Blog</a>&emsp;
+<a href="mailto:mahesh.moholkar.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/mail-dark.svg"><img src="img/mail-light.svg" alt="" width="18" height="18" align="absmiddle"></picture>&nbsp;Email</a>
