@@ -2,7 +2,7 @@
 
 Software engineer in Pune, working on enterprise SaaS and applied AI.
 
-I design and ship multi-tenant ERP platforms, distributed backends and production LLM systems. At Shivam Enterprises I architected a multi-tenant campus ERP and three satellite platforms serving 8,000+ users across 6 colleges at under 400 ms p95, plus the Python RAG service behind their reporting and helpdesk.
+I design and ship multi-tenant SaaS platforms, distributed backends and production LLM systems.
 
 **Selected work**
 
